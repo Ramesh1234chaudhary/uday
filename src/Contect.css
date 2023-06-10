@@ -1,0 +1,38 @@
+.main2{
+    width: 200px;
+    height: auto;
+    border: 1px solid black;
+    box-shadow: 1px 1px 5px black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.main{
+    width: 800px;
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.content{
+    margin-right: 10px;
+}
+.content h5{
+    color: brown;
+}
+.btn2{
+    background-color: red;
+    margin-right: 9px;
+    box-shadow: 1px 1px 10px  red;
+}
+.btn3{
+    background-color: aqua;
+    box-shadow: 1px 1px 10px  aqua;
+}
+.btn4{
+    background-color: green;
+    box-shadow: 1px 1px 10px green;
+}
+
+
